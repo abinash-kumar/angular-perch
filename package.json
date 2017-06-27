@@ -1,0 +1,19 @@
+{
+  "name": "angular-perch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/abinash-kumar/angular-perch.git"
+  },
+  "author": "Abinash Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abinash-kumar/angular-perch/issues"
+  },
+  "homepage": "https://github.com/abinash-kumar/angular-perch#readme"
+}
